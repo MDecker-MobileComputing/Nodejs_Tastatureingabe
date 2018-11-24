@@ -5,6 +5,10 @@ how to use [NPM packages](https://www.npmjs.com/).
 The package used for the example is [readline-sync](https://www.npmjs.com/package/readline-sync), 
 which enables to read user input from the keyboard.
 
+Before you can execute the program `Tastatureingabe_StringlaengeAusgeben.js` contained in this
+repository, you have to execute the command `npm install` to download the module `readline-sync`.
+This module will be stored in a sub-folder named `node_modules`.
+
 ----
 # License
 
