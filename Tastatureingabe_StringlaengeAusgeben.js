@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 /*
  * Node.js-Programm zum Einlesen von Texteingaben von der Tastatur.
  * Hierfür wird das Modul "readline-sync" verwendet:
