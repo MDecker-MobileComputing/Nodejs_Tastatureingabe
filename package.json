@@ -7,7 +7,7 @@
     "url": "https://github.com/MDecker-MobileComputing/Nodejs_Tastatureingabe"
   },
   "dependencies": {
-    "readline-sync": "^1.4.9"
+    "readline-sync": "^1.4.10"
   },
   "keywords": [
     "Tastatur-Eingabe",
