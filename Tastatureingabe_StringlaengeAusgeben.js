@@ -11,7 +11,7 @@
  * This file is licensed under the terms of the BSD 3-Clause License.
  */
 
-const readlineSync = require("readline-sync");
+import readlineSync from "readline-sync";
 
 const eingabeStr = readlineSync.question("\nBitte geben Sie eine Zeichenkette ein!\n> ");
 
